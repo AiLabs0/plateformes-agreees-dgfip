@@ -1,0 +1,165 @@
+L1 ¦ A-Cube ¦ via Pisani Vittor 20, Milan ¦ 20124 ¦ Italie ¦ https://www.acubeapi.com/ ¦ france@a-cube.io ¦ 46224
+L1 ¦ ABBY ¦ 223-225 avenue Général Leclerc ¦ 54000 ¦ Nancy ¦ https://abby.fr/ ¦ contact@abby.fr ¦ 46051
+L1 ¦ ACCENTURE ¦ 118 Avenue de France ¦ 75013 ¦ Paris ¦ https://www.accenture.com/fr-fr ¦ fr.contact.ecv@accenture.com ¦ 46013
+L1 ¦ ADEMICO SOFTWARE ¦ 204 Heidebergstraat, Louvain ¦ 3010 ¦ Belgique ¦ https://ademico-software.com/ ¦ info@ademico-software.com ¦ 46038
+L1 ¦ AGENA 3000 ¦ 88 Rue du Paradis ¦ 49300 ¦ Cholet ¦ https://www.agena3000.com/fr/nos-solutions/a3-e-facture ¦ https://www.agena3000.com/fr/contact ¦ 46002
+L1 ¦ AGICAP ¦ 57 rue de Saint-Cyr 57-59 imm Lyon Vaise ¦ 69009 ¦ Lyon ¦ https://agicap.com/fr/ ¦ contact-pa@agicap.com ¦ 46042
+L1 ¦ AGS RECORDS MANAGEMENT ¦ 20 Rue de la Guillauderie ¦ 44118 ¦ La Chevrolière ¦ https://www.ags-recordsmanagement.com/ ¦ supportcommercial@agsrm.com ¦ 46218
+L1 ¦ Arratech ¦ Drottninggatan 33, Stockholm ¦ 111 51 ¦ Suède ¦ https://www.arratech.com/ ¦ contact@arratech.com ¦ 46206
+L1 ¦ ARTEVA ¦ 330 Allée des Hêtres ¦ 69760 ¦ Limonest ¦ https://www.arteva.fr ¦ contact-pdp@arteva.fr ¦ 46009
+L1 ¦ Aruba S.p.A. ¦ Via San Clemente n. 53 Ponte San Pietro ¦ 24036 ¦ Italie ¦ https://www.arubaonesuite.fr/ ¦ contact-pa@staff.aruba.it ¦ 46232
+L1 ¦ ATGP ¦ 20, rue des Acacias ¦ 26120 ¦ Montélier ¦ https://www.atgp.net/ ¦ contact.pdp@atgp.net ¦ 46002
+L1 ¦ AVALARA ¦ 33 Rue François 1er ¦ 75008 ¦ Paris ¦ https://www.avalara.com/eu/fr ¦ pdp-contact@avalara.com ¦ 46009
+L1 ¦ AXELOR ¦ 23 Rue Alfred Nobel ¦ 77420 ¦ Champs-sur-Marne ¦ https://axelor.com/fr/ ¦ pa@axelor.com ¦ 46125
+L1 ¦ AXONAUT ¦ 12 Rue Louis Renault ¦ 31130 ¦ Balma ¦ https://axonaut.com/ ¦ hello@axonaut.com ¦ 46030
+L1 ¦ AXWAY SOFTWARE ¦ 1 Bis Place de la Défense ¦ 92035 ¦ Paris La Défense Cedex ¦ https://www.axway.com/fr ¦ https://www.axway.com/fr ¦ 46126
+L1 ¦ AZOPIO ¦ 38 rue de Wagram ¦ 75008 ¦ Paris ¦ https://www.azopio.com/fr/ ¦ contact@azopio.com ¦ 46013
+L1 ¦ B2BRouter ¦ Avenida Diagonal 433 1 - 1 CP, Barcelona ¦ 08036 ¦ Espagne ¦ https://www.b2brouter.net/fr ¦ comercial@b2brouter.net ¦ 46003
+L1 ¦ B4VALUE.NET ¦ Trippstadter Str. 122,Kaiserslautern ¦ 67663 ¦ Allemagne ¦ https://www.b4value.net/en/ ¦ pdp@b4value.net ¦ 46085
+L1 ¦ BASWARE ¦ Linnoitustie 2, Espoo ¦ 02600 ¦ Finlande ¦ https://www.basware.com/fr ¦ FranceMandate@basware.com ¦ 46009
+L1 ¦ BC SOLUTIONS ¦ 1330 Av. Jean-René Guillibert Gautier de la Lauzière ¦ 13290 ¦ Aix-en-Provence ¦ https://bcsolutions.fr/ ¦ easinvoice.info@bcsolutions.fr ¦ 46037
+L1 ¦ BILLIT ¦ Oktrooiplein 1 boite 302, Gent ¦ 9000 ¦ Belgique ¦ https://www.billit.eu/fr-be/ ¦ support@billit.be ¦ 46010
+L1 ¦ BLG ¦ 1 Rue de la Sous-Préfecture ¦ 60200 ¦ Compiègne ¦ https://www.blgcloud.fr/ ¦ contact@blgcloud.com ¦ 46260
+L1 ¦ CBS Corporate Business Solutions ¦ Rudolf-Diesel-Straße 9 en Heidelberg ¦ 69115 ¦ Allemagne ¦ https://www.cbs-consulting.com/en/ ¦ kontakt@cbs-consulting.de ¦ 46078
+L1 ¦ CECURITY ¦ 75 Rue Saint-Lazare ¦ 75009 ¦ Paris ¦ https://www.cecurity.com ¦ contact_cecurity@cecurity.com ¦ 46009
+L1 ¦ CEGEDIM ¦ 137 Rue d'Aguesseau ¦ 92100 ¦ Boulogne-Billancourt ¦ https://www.cegedim.fr ¦ sy-pa@cegedim.com ¦ 46002
+L1 ¦ CEGI ALFA ¦ 21 Rue Jules Verne, ZI du Brezet ¦ 63000 ¦ Clermont-Ferrand ¦ https://www.cegi.fr/ ¦ contact-pa@cegialfa.fr ¦ 46126
+L1 ¦ CEGID ¦ 52 Quai Paul Sédallian ¦ 69279 ¦ Lyon Cedex 09 ¦ https://www.cegid.com/fr ¦ contact-pa@cegid.com ¦ 46009
+L1 ¦ CHAINTRUST by Visma ¦ 9 rue des Colonnes ¦ 75002 ¦ Paris ¦ https://www.chaintrust.io ¦ pdp-contact@visma.com ¦ 46009
+L1 ¦ CLEARTAX ¦ 42 rue Cambronne ¦ 75015 ¦ Paris ¦ https://www.cleartax.com/fr ¦ sales-europe@clear.in ¦ 46136
+L1 ¦ COMARCH SA ¦ al. Jana Pawła II 39a Kraków ¦ / ¦ Pologne ¦ https://www.comarch.com/ ¦ contact@comarch.fr ¦ 46009
+L1 ¦ CYCLOPE ¦ 92 Cours Vitton ¦ 69006 ¦ Lyon ¦ https://cyclope.digital/ ¦ cyclope@gallo.fr ¦ 46259
+L1 ¦ DARVA ¦ 245 rue du stade ¦ 79180 ¦ Chauray ¦ https://www.darva.com ¦ ofeli-pdp@darva.com ¦ 46009
+L1 ¦ DEXT ¦ 34 rue Laffitte ¦ 75009 ¦ Paris ¦ https://dext.com/fr/produits/logiciel-facturation ¦ pdp@dext.com ¦ 46002
+L1 ¦ DIGIPHARMACIE ¦ 28 rue des Marguettes ¦ 75012 ¦ Paris ¦ https://digipharmacie.fr/ ¦ jonathan.blajman@digipharmacie.fr ¦ 46014
+L1 ¦ DIGITAL TECHNOLOGIES ¦ Via San Vittore 14, Milan ¦ 20122 ¦ Italie ¦ https://digtechs.com/?lang=fr ¦ info@digtechs.com ¦ 46006
+L1 ¦ Docnova, MELASOFT GmbH ¦ Gerbermühlstraße 32, Frankfurt ¦ 60594 ¦ Allemagne ¦ https://www.melasoft.com/ ¦ info@melasoft.com ¦ 46155
+L1 ¦ DOCOON ¦ 81 Rue Réaumur ¦ 75002 ¦ Paris ¦ https://docoon.com ¦ contact@docoon.com ¦ 46006
+L1 ¦ DOCOON IMMO / FREEDZ ¦ 32 Boulevard Michelet ¦ 13008 ¦ Marseille ¦ https://docoon.immo/ ¦ pdp@docoon.com ¦ 46014
+L1 ¦ DOCPROCESS ¦ 14 Chemin des Clos ¦ 38240 ¦ Meylan ¦ https://doc-process.com/fr ¦ contact@doc-process.com ¦ 46006
+L1 ¦ DOCUWARE ¦ 17 rue du Colisée ¦ 75008 ¦ Paris ¦ https://start.docuware.com/fr/ ¦ infoline@docuware.com ¦ 46013
+L1 ¦ DOKAPI ¦ 75 Schuttersvest, Malines ¦ 2800 ¦ Belgique ¦ https://www.dokapi.io/ ¦ katrien.dewolf@dokapi.io ¦ 46211
+L1 ¦ Dougs Facturation gratuite ¦ Route de Sully la Chapelle ¦ 45450 ¦ Fay-aux-Loges ¦ https://www.dougs.fr/logiciel-facturation-gratuit/ ¦ support@dougs.fr ¦ 46003
+L1 ¦ DOXALLIA ¦ Rue du Causse Comtal ¦ 12340 ¦ Bozouls ¦ https://www.doxallia.com ¦ contact@doxallia.com ¦ 46002
+L1 ¦ ecosio InterCom, a Vertex Company ¦ Maximilianstraße 35a, Munich ¦ 80539 ¦ Allemagne ¦ https://ecosio.com/fr/ ¦ einvoice@ecosio.com ¦ 46142
+L1 ¦ EDICOM France ¦ 55 Rue d'Amsterdam ¦ 75008 ¦ Paris ¦ https://edicomgroup.fr ¦ info_france@edicomgroup.com ¦ 46002
+L1 ¦ EDICOM Group ¦ C/ Charles Robert Darwin,8 Parque Tecnologico de Paterna, Valencia ¦ 46980 ¦ Espagne ¦ https://edicomgroup.com ¦ info_france@edicomgroup.com ¦ 46002
+L1 ¦ EDICS France ¦ 5 Allée Moulin Berger ¦ 69130 ¦ Écully ¦ https://edics.fr/ ¦ support@edics.cloud ¦ 46030
+L1 ¦ EdiEyes Vision Care ¦ 14 Allée du Haras ¦ 49100 ¦ Angers ¦ https://www.edieyes.fr/ ¦ commerce@edieyes.fr ¦ 46174
+L1 ¦ EDT ¦ 85 Rue Lavoisier ¦ 38330 ¦ Montbonnot-Saint-Martin ¦ https://www.group-edt.fr/ ¦ marketing@edt.fr ¦ 46030
+L1 ¦ EEZI powered by VAT IT ¦ 29-31 Boulevard de le Paix ¦ 78100 ¦ SaintGermain-en-Laye ¦ https://eezi.io/ ¦ PDP@eezi.io ¦ 46035
+L1 ¦ Effinum by SPEE ¦ 18 Rue de l'Armorique ¦ 75015 ¦ Paris ¦ https://www.effinum.fr/ ¦ contact@effinum.fr ¦ 46002
+L1 ¦ ENERJ ¦ 3 Chemin de l'Orée du Bois ¦ 69570 ¦ Dardilly ¦ https://www.enerj.fr/ ¦ contact@enerj.fr ¦ 46009
+L1 ¦ ENTROPICS ¦ 4 rue Paul Lintier ¦ 69002 ¦ Lyon ¦ https://entropics.fr ¦ contact.pdp@entropics.fr ¦ 46035
+L1 ¦ ESALINK ¦ 2 Rue Jules Méline ¦ 51430 ¦ Bezannes ¦ https://www.esalink.com ¦ contact@esalink.com ¦ 46002
+L1 ¦ ESI ¦ 50 Rue Jean Zay ¦ 69800 ¦ Saint-Priest ¦ https://www.esi-groupe.com/ ¦ contact.pdp@esi-groupe.com ¦ 46035
+L1 ¦ ESKER ¦ 113 Boulevard de la Bataille de Stalingrad ¦ 69100 ¦ Villeurbanne ¦ https://www.esker.fr ¦ contact-pdp@esker.com ¦ 46002
+L1 ¦ EURO INFORMATION ¦ 4 Rue Frédéric-Guillaume Raiffeisen ¦ 67000 ¦ Strasbourg ¦ https://www.e-i.com/fr ¦ epithetecontact@epithete.com ¦ 46013
+L1 ¦ FACNOTE PDP ¦ Sky Center La Marseille 2B Bd Euroméditerranée ¦ 13002 ¦ MARSEILLE ¦ https://www.facnote.com/ ¦ pdp@facnote.com ¦ 46037
+L1 ¦ FIDUCIAL CLOUD ¦ 41 Rue Du Capitaine Guynemer ¦ 92400 ¦ Courbevoie ¦ https://www.fiducial.fr ¦ contact@fiducialcloud.fr ¦ 46030
+L1 ¦ FISKALTRUST ¦ 132 Rue Bossuet ¦ 69006 ¦ Lyon ¦ https://fiskaltrust.eu/fr-fr/ ¦ info@fiskaltrust.fr ¦ 46262
+L1 ¦ FLOWIE ¦ 229 Rue Saint-Honoré ¦ 75001 ¦ Paris ¦ https://www.get-flowie.com/ ¦ hello.pdp@flowie.fr ¦ 46029
+L1 ¦ Fonoa Technologies Limited ¦ 6th Floor, South Bank House, Barrow Street, Dublin 4, Dublin ¦ D04TR29 ¦ Irlande ¦ https://www.fonoa.com/ ¦ e-invoicing@fonoa.com ¦ 46141
+L1 ¦ FULLL ¦ 14 Rue Rhin et Danube ¦ 69009 ¦ Lyon ¦ https://www.fulll.fr/ ¦ e-invoicing@fulll.fr ¦ 46037
+L1 ¦ GEP ¦ Innopoli 2 Tekniikantie 14 ¦ 2600 ¦ Espoo (Finlande) ¦ https://www.gep.com/software/e-invoicing ¦ https://www.gep.com ¦ 46190
+L1 ¦ GENERIX Group ¦ Tour Légende 20 place de la Défense ¦ 92050 ¦ Paris La Défense ¦ https://www.generixgroup.com/fr ¦ pdp@generixgroup.com ¦ 46002
+L1 ¦ GESTAV ¦ 57 bis rue de la pomme rouge ¦ 2100 ¦ Saint Quentin ¦ https://gestav.com/ ¦ contact@gestav.com ¦ 46010
+L1 ¦ GROUPE SIGMA ¦ Rue Newton ¦ 44240 ¦ La Chapelle-sur-Erdre ¦ https://www.sigma.fr/ ¦ produit.lixa.pa@sigma.fr ¦ 46037
+L1 ¦ GURUSOFT ¦ Avda Brasil 29, Madrid ¦ 28020 ¦ Espagne ¦ https://guru-soft.com/fr/france/ ¦ sales.fr@guru-soft.com ¦ 46112
+L1 ¦ IAF ¦ 27 Rue Alfred Nobel ¦ 77420 ¦ Champs-sur-Marne ¦ https://www.assistances.fr/ ¦ sebastien.b@iaf.fr ¦ 46188
+L1 ¦ ICD International ¦ 17 Rue Jeanne Braconnier ¦ 92360 ¦ Meudon ¦ https://icdint.fr ¦ commercial@icdint.fr ¦ 46013
+L1 ¦ iEDI ApS ¦ Bybjergvej 14, Espergærde ¦ 3060 ¦ Danemark ¦ https://www.iedi.com/ ¦ ds@iedi.com ¦ 46064
+L1 ¦ IGA ASSURANCE ¦ 58 Rue Etienne Dolet ¦ 92240 ¦ Malakoff ¦ https://www.iga-assurance.fr/ ¦ info@iga-e-invoicing.fr ¦ 46084
+L1 ¦ INDICOM ¦ Via Carnevali 39, Milano ¦ 20158 ¦ Italie ¦ https://www.indicom.eu/en/idc-home ¦ pdp.contact@indicom.eu ¦ 46035
+L1 ¦ INDY ¦ 94 Rue Robert ¦ 69006 ¦ LYON ¦ https://www.indy.fr/ ¦ pdp@indy.fr ¦ 46031
+L1 ¦ INFOLOGIC ¦ 99 Avenue de Lyon ¦ 26500 ¦ Bourg-lès-Valence ¦ https://www.infologic-copilote.fr/ ¦ facture-elec@infologic.fr ¦ 46050
+L1 ¦ In.Te.S.A. spa ¦ Strada Pianezza, 289, Torino ¦ 10151 ¦ Italie ¦ https://www.intesa.it/ ¦ intesa@pec.trustedmail.intesa.it ¦ 46240
+L1 ¦ INVOPOP ¦ Calle Pradillo 42, Madrid ¦ 28002 ¦ Espagne ¦ https://www.invopop.com/ ¦ pdp@invopop.com ¦ 46037
+L1 ¦ IOPOLE ¦ 145 Impasse John Locke ¦ 34470 ¦ Pérols ¦ https://www.iopole.com ¦ contact@iopole.com ¦ 46002
+L1 ¦ iPaidThat ¦ Avenue d'Alphasis ¦ 35760 ¦ Saint-Grégoire ¦ https://ipaidthat.io/fr ¦ contact@ipaidthat.io ¦ 46028
+L1 ¦ ITESOFT ¦ Chemin du Mas d'Andron ¦ 30470 ¦ Aimargues ¦ https://www.itesoft.com/fr ¦ contact@itesoft.com ¦ 46037
+L1 ¦ jefacture.com ¦ 216 Rue Raymond Losserand ¦ 75014 ¦ Paris ¦ https://www.ecma-solutions.com ¦ https://go.jefacture.com/pa ¦ 46009
+L1 ¦ KLEKOON ¦ 12, Rue Paul Langevin ¦ 93270 ¦ Sevran ¦ https://www.klekoon.com/ ¦ contact.pa@klekoon.com ¦ 46038
+L1 ¦ KOLECTO PA ¦ 155 Boulevard Haussmann ¦ 75008 ¦ Paris ¦ https://www.kolecto.fr ¦ admin-pa-client@kolecto.fr ¦ 46134
+L1 ¦ KOLECTO PDP ¦ 50 Rue la Boétie ¦ 75008 ¦ Paris ¦ https://www.kolecto.fr ¦ admin@kolecto.fr ¦ 46009
+L1 ¦ LE VILLAGE CONNECTE ¦ 2322 Route du Latéral ¦ 47400 ¦ Fauguerolles ¦ https://village-connecte.fr/ ¦ contact-pdp@coaxis.com ¦ 46030
+L1 ¦ Legalinvoice by Tinexta Infocert ¦ Piazzale Flaminio 1B, Rome ¦ 00196 ¦ Italie ¦ https://www.infocert.it/ ¦ pdp@infocert.it ¦ 46125
+L1 ¦ LOGILEC ¦ Route de Kerscao ¦ 29480 ¦ Le Relecq-Kerhuon ¦ https://www.logilec.fr/ ¦ service.clients@logilec.leclerc ¦ 46028
+L1 ¦ LUCCA ¦ 151 Avenue de France ¦ 75013 ¦ Paris ¦ https://www.lucca.fr ¦ plateforme-agreee@luccasoftware.com ¦ 46136
+L1 ¦ LUNDI MATIN ¦ 1025 Avenue Henri Becquerel ¦ 34000 ¦ Montpellier ¦ https://www.lundimatin.fr/ ¦ contact@lundimatin.fr ¦ 46258
+L1 ¦ MACOMPTA.FR ¦ 20 Rue des Greffières ¦ 17140 ¦ Lagord ¦ https://www.macompta.fr/ ¦ commercial@macompta.fr ¦ 46037
+L1 ¦ MAROSA ¦ C/ Policarpo Sanz 36 - 2e D, VigoPontevedra ¦ 36202 ¦ Espagne ¦ https://marosavat.com/ ¦ marosanotifications@marosavat.com ¦ 46037
+L1 ¦ MEDIUS ¦ 35 Rue des Jeuneurs ¦ 75002 ¦ Paris ¦ https://www.medius.com/fr ¦ info.france@medius.com ¦ 46030
+L1 ¦ MY FITECO ¦ Rue Albert Einstein ¦ 53810 ¦ Changé ¦ https://myfiteco.com/ ¦ pa+contact@fiteco.com ¦ 46154
+L1 ¦ MY UNISOFT ¦ Immeuble le Carré, 2 Rue George Stephenson ¦ 78180 ¦ Montigny-le-Bretonneux ¦ https://myunisoft.fr/ ¦ pa-support@myunisoft.fr ¦ 46127
+L1 ¦ MyKinexo PDP ¦ 10 RUE ALAIN GERBAULT ¦ 35000 ¦ Rennes ¦ https://www.kinexo.fr/ ¦ contact@kinexo.fr ¦ 46037
+L1 ¦ MySupply Aps ¦ Østre Fælledvej 8, Nørresundby ¦ 9400 ¦ Danemark ¦ https://mysupply.dk/en ¦ info@mysupply.dk ¦ 46084
+L1 ¦ N2F PDP ¦ 233 Chemin des Grandes Terres ¦ 01250 ¦ Montagnat ¦ https://www.n2f.com/fr/note-de-frais/ ¦ sales@n2f.com ¦ 46010
+L1 ¦ NEOTIMO ¦ 27 rue de la Tuilerie ¦ 45200 ¦ Amilly ¦ https://neotimo.com/ ¦ https://neotimo.com/contact ¦ 46125
+L1 ¦ NTT DATA Business Solutions ¦ Philipp-Reis-Str 2, Bautzen ¦ 02625 ¦ Allemagne ¦ https://fr.nttdata.com/ ¦ sol-fr-contact@nttdata.com ¦ 46155
+L1 ¦ ODOO ¦ 40, Chaussée de Namur, Grand Rosière ¦ 1367 ¦ Belgique ¦ https://www.odoo.com/fr_FR ¦ pdp-contact@odoo.com ¦ 46127
+L1 ¦ OfficeIn ¦ 15 Rue Pierre Lescot ¦ 75001 ¦ Paris ¦ https://officein.fr/ ¦ contact@officein.fr ¦ 46212
+L1 ¦ ONE UP ¦ 124 Rue Réaumur ¦ 75002 ¦ Paris ¦ https://smallbusiness.oneup.com/fr/ ¦ purchasing@oneup.com ¦ 46030
+L1 ¦ OPEN BEE ¦ ZAC des Longerays ¦ 74370 ¦ Epagny Metz-Tessy ¦ https://www.openbee.com ¦ https://www.openbee.com/nous-contacter/ ¦ 46035
+L1 ¦ OPENTEXT ¦ Taurusavenue 15 Zuidtoren, Hoofddorp ¦ 2132 ¦ Pays-Bas ¦ https://www.opentext.fr ¦ pdp.nl@opentext.com ¦ 46003
+L1 ¦ PAGERO ¦ Västra Hamngatan 1, Göteborg ¦ 411 17 ¦ Suède ¦ https://www.pagero.com/fr ¦ info@pagero.fr ¦ 46010
+L1 ¦ PARAGON ¦ 274 Boulevard Clémenceau ¦ 59700 ¦ Marcq-en-Barœul ¦ https://www.paragon.world/fr ¦ ipp@paragon-cc.fr ¦ 46013
+L1 ¦ PAYFLOWS ¦ 17 Rue de la Comète ¦ 75007 ¦ Paris ¦ https://payflows.io ¦ joseph@payflows.io ¦ 46127
+L1 ¦ PENNYLANE ¦ 2-4 Rue Jules Lefebvre ¦ 75009 ¦ Paris ¦ https://www.pennylane.com/fr ¦ portabilite.pa@pennylane.com ¦ 46002
+L1 ¦ PITNEY BOWES ¦ 5 rue Francis de Pressensé ¦ 93210 ¦ Saint-Denis ¦ https://www.pitneybowes.com/fr ¦ admin.pdp@pb.com ¦ 46035
+L1 ¦ QONTO ¦ 18 Rue de Navarin ¦ 75009 ¦ Paris ¦ https://qonto.com/fr ¦ contact-pdp@qonto.com ¦ 46009
+L1 ¦ QWEEBY ¦ 8 Rue Louis Braille ¦ 42000 ¦ Saint-Étienne ¦ https://www.qweeby.fr/ ¦ hello_pdp@qweeby.com ¦ 46013
+L1 ¦ SAGE ¦ 10 Place de Belgique ¦ 92250 ¦ La Garenne-Colombes ¦ https://www.sage.com/fr-fr/ ¦ pdp.france@sage.com ¦ 46013
+L1 ¦ SAP ¦ Dietmar-Hopp-Allee 16, Walldorf ¦ 69190 ¦ Allemagne ¦ https://www.sap.com/france/ ¦ sap_pdp_contact@sap.com ¦ 46037
+L1 ¦ SCRIBEE ¦ 128 Rue la Boétie ¦ 75008 ¦ Paris ¦ https://www.scribee.tech/ ¦ contact@scribee.tech ¦ 46013
+L1 ¦ SEEBURGER ¦ 1 Edisonstrasse, Bretten ¦ 75015 ¦ Allemagne ¦ https://www.seeburger.com/ ¦ info.fr@seeburger.com ¦ 46037
+L1 ¦ SEPTEO ¦ 194 avenue de la Gare sud de france ¦ 34970 ¦ Lattes ¦ https://www.septeopdp.com ¦ contact@septeopdp.com ¦ 46031
+L1 ¦ SEQINO ¦ 2 Route de la Noue ¦ 91190 ¦ Gif-sur-Yvette ¦ https://seqino.com ¦ contact-pdp@seqino.com ¦ 46037
+L1 ¦ SERENSIA by Quadient ¦ 15 Rue des Mathurins ¦ 75009 ¦ Paris ¦ https://www.serensia.com/ ¦ contact.marketing@quadient.com ¦ 46002
+L1 ¦ SERES ¦ 45 Bd Paul Vaillant Couturier ¦ 94200 ¦ Ivry-sur-Seine ¦ https://www.seres.fr ¦ contact@seres.fr ¦ 46002
+L1 ¦ Shine ¦ Fiolstræde 17B, København ¦ 1171 ¦ Danemark ¦ https://www.shine.fr/ ¦ contact@shine.co ¦ 46163
+L1 ¦ SNI ¦ Dunajska jesta 136, Ljubljana ¦ 1000 ¦ Slovénie ¦ https://snitechnology.net/fr ¦ regulation@snitechnology.net ¦ 46125
+L1 ¦ SOLO ¦ Sveavägen 13, Stockholm ¦ 111 57 ¦ Suède ¦ https://www.solo.fr ¦ hello@solo.fr ¦ 46069
+L1 ¦ SOVOS ¦ Rua do Viriato, nº 13, 3º étage, 233 Lisbonne ¦ 1050 ¦ Portugal ¦ https://www.saphety.com/fr ¦ sovos-pdp_contact@sovos.com ¦ 46009
+L1 ¦ SPENDESK ¦ 51 Rue de Londres ¦ 75008 ¦ Paris ¦ https://www.spendesk.com/fr/ ¦ hello@spendesk.com ¦ 46037
+L1 ¦ SPS COMMERCE ¦ De Corridor 5 ZA, Breukelen ¦ 3621 ¦ Pays-Bas ¦ https://tiekinetix.com/fr ¦ pdpcontact@spscommerce.com ¦ 46009
+L1 ¦ SRCI ¦ 4 Rue Joseph Fourier ¦ 28000 ¦ Chartres ¦ https://solutions.srci.fr/ ¦ commercial@srci.fr ¦ 46041
+L1 ¦ STORECOVE ¦ s-Gravelandseweg 46D, Hilversum ¦ 1211 BT ¦ Pays-Bas ¦ https://www.storecove.com/fr/fr ¦ info@storecove.com ¦ 46140
+L1 ¦ SUPER PDP ¦ 6 rue de la Dhuis ¦ 75020 ¦ Paris ¦ https://www.superpdp.tech/ ¦ contact@superpdp.tech ¦ 46013
+L1 ¦ SYMTRAX ¦ 11 Rue Raymond Marc ¦ 30000 ¦ Nîmes ¦ https://www.symtrax.com/fr ¦ contact.pdp@symtrax.eu ¦ 46009
+L1 ¦ TAXERA ¦ 40 Rue Alexandre Dumas ¦ 75011 ¦ Paris ¦ https://taxera.tech/ ¦ france@taxera.tech ¦ 46177
+L1 ¦ TeamSystem Sellsy ¦ Avenue du Lazaret ¦ 17000 ¦ La Rochelle ¦ https://go.sellsy.com/ ¦ contact@sellsy.com ¦ 46015
+L1 ¦ TENOR ¦ 5 Rue des Anciennes Tanneries ¦ 69600 ¦ Oullins ¦ https://tenorsolutions.com ¦ contact.pdp@tenorsolutions.com ¦ 46037
+L1 ¦ TESISQUARE SPA ¦ Via Mendicità Istruita 24, Bra CN ¦ 12042 ¦ Italie ¦ https://www.tesisquare.com/fr ¦ digital_compliance@service.tesisquare.com ¦ 46037
+L1 ¦ TESSI Technologies ¦ Immeuble Cassiopee, 1-3 Avenue des Satellites ¦ 33185 ¦ Le Haillan ¦ https://www.tessi.eu/fr ¦ pdp.support@tessi.fr ¦ 46002
+L1 ¦ TIIME PDP ¦ 15 Rue Auber ¦ 75009 ¦ Paris ¦ https://www.tiime.fr ¦ contact@tiimepdp.com ¦ 46009
+L1 ¦ TRADESHIFT BABELWAY ¦ Chemin du Cyclotron 6, Ottignies-Louvain-la-Neuve ¦ 1348 ¦ Belgique ¦ https://tradeshift.com/fr ¦ support@tradeshift.com ¦ 46028
+L1 ¦ Transalis Limited ¦ Kyriakou Matsi 16, Nicosie ¦ 1082 ¦ Chypre ¦ https://www.transalis.com/ ¦ mstares@transalis.com ¦ 46041
+L1 ¦ TRESO2 ¦ 35 Rue des Mathurins ¦ 75008 ¦ Paris ¦ http://www.treso2.com ¦ contact.pdp@treso2.com ¦ 46030
+L1 ¦ TUNGSTEN AUTOMATION FRANCE ¦ 18 Boulevard Malesherbes ¦ 75008 ¦ Paris ¦ https://www.tungstenautomation.fr/ ¦ ruud.vanhilten@tungstenautomation.com ¦ 46014
+L1 ¦ TX2 Concept ¦ 491 Boulevard Duhamel du Monceau ¦ 45160 ¦ Olivet ¦ https://tx2.fr ¦ adm@tx2.fr ¦ 46036
+L1 ¦ VENTYA ¦ 3, Boulevard des Bouvets ¦ 92000 ¦ Nanterre ¦ https://www.ventya.fr ¦ contact@ventya.fr ¦ 46009
+L1 ¦ VERYSWING ¦ 143bis Rue Yves le Coz ¦ 78000 ¦ Versailles ¦ https://veryswing.com/ ¦ einvoicing@veryswing.com ¦ 46037
+L1 ¦ VosFactures ¦ FACTUALI 470 Promenade des Anglais ¦ 6200 ¦ Nice ¦ https://vosfactures.fr/ ¦ info@vosfactures.fr ¦ 46127
+L1 ¦ VOXEL, an Amadeus company ¦ Carrer Cristóbal de Moura 115 1st floor, Barcelone ¦ 8019 ¦ Espagne ¦ https://www.voxelgroup.net/facture-electronique/ ¦ pdp.contact-voxel@amadeus.com ¦ 46037
+L1 ¦ WEPROC ¦ 2 Parvis des Écoles ¦ 83000 ¦ Toulon ¦ https://www.weproc.com/fr/ ¦ contact-pdp@weproc.com ¦ 46014
+L1 ¦ WiseTech GLOBAL ¦ 25 Bourke Road, Alexandria NSW 2015 ¦ / ¦ Australie ¦ https://www.wisetechglobal.com/fr-fr/ ¦ communications@wisetechglobal.com ¦ 46037
+L1 ¦ XELYA ¦ 1 Rue Royale 174 Bureaux de la Colline ¦ 92210 ¦ Saint-Cloud ¦ https://www.xelya.com/ ¦ contact-pa@xelya.com ¦ 46155
+L1 ¦ YOOZ PDP ¦ Le Sequoia Parc d'Andron ¦ 30470 ¦ Aimargues ¦ https://www.getyooz.com/fr ¦ contact@yoozpdp.com ¦ 46002
+L1 ¦ YTEMS ¦ 11 Rue de Lourmel ¦ 75015 ¦ Paris ¦ https://com.ytems.app/ ¦ pa@ytems.co ¦ 46237
+L2 ¦ Basikon ¦ 17 Rue de Kronstadt ¦ 92380 ¦ Garches ¦ https://www.basikon.com/fr ¦ info@fiskaltrust.fr ¦
+L2 ¦ BE FRESH S.à r.l. ¦ 13, rue de l'Innovation, Kockelscheuer ¦ 1896 ¦ Luxembourg ¦ https://befresh.lu/ ¦ info@befresh.lu ¦
+L2 ¦ CENSE ¦ 4 Place Sadi Carnot ¦ 13002 ¦ Marseille ¦ https://www.cpem.fr/o ¦ contact@cpem.fr ¦
+L2 ¦ EAGLESSOFT ¦ Excelsiorlaan 31, Zaventem ¦ 1930 ¦ Belgique ¦ https://eaglessoft.com/ ¦ info@eaglessoft.com ¦
+L2 ¦ EY Expertises & Transactions ¦ 1-2 place des saisons ¦ 92400 ¦ Courbevoie ¦ https://www.ey.com/fr_fr ¦ pdp.ey@fr.ey.com ¦
+L2 ¦ FACTUREAPP ¦ 16 rue Cuvier ¦ 69002 ¦ Lyon ¦ https://www.factureapp.com/ ¦ contact@facturesapp.com ¦
+L2 ¦ Insiders Technologies GmbH ¦ Brüsseler Straße 1, Kaiserslautern ¦ 67657 ¦ Allemagne ¦ https://insiders-technologies.com/en/ ¦ e-invoicing@insiders-technologies.de ¦
+L2 ¦ KALANDA ¦ 94 Avenue de la Sarriette ¦ 13600 ¦ La Ciotat ¦ https://www.kalanda.net/ ¦ kalandaefacture@kalanda.net ¦
+L2 ¦ MY-EDDY ¦ 2507 Avenue de l'Europe ¦ 69140 ¦ Rillieux-la-Pape ¦ https://dailyapps.fr/ ¦ m.cure@my-eddy.fr ¦
+L2 ¦ NUMERIA ¦ 5 allée Rosa Luxembourg ¦ 95610 ¦ Eragny ¦ https://www.numeria.fr/ ¦ info@numeria.fr ¦
+L2 ¦ RATIOO ¦ 300 Rue du Noir Debout ¦ 59242 ¦ Cappelle-en-Pévèle ¦ https://ratioo.fr ¦ contact@ratioo.fr ¦
+L2 ¦ SWILE ¦ 561 Rue Georges Méliès ¦ 34000 ¦ Montpellier ¦ https://www.swile.co/ ¦ gregory.truchetet@swile.co ¦
+L2 ¦ Taxilla Europe BV ¦ Rue des Colonies 11, Brussels ¦ 1000 ¦ Belgique ¦ https://www.taxilla.com/ ¦ support.pdp@taxilla.com ¦
+L2 ¦ WAKASTELLAR ¦ 17 Rue de la Guillauderie ¦ 44118 ¦ La Chevrolière ¦ https://www.wakastellar.com/ ¦ pdp@wakastellar.com ¦
+L2 ¦ YUMAN ¦ Square de Meuûs 35 ¦ 1000 ¦ Belgique ¦ https://www.yuman.io/ ¦ contact@yuman.io ¦
+L2 ¦ ZEFYR ¦ 12 Rue Ernest Psichari ¦ 75007 ¦ Paris ¦ https://www.zefyr.net/ ¦ facturation-electronique@zefyr.net ¦
